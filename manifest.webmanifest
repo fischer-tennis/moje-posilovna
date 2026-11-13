@@ -1,9 +1,9 @@
 {
-  "name": "Moje posilovna – Jan",
+  "name": "Moje posilovna – Jan V1.1",
   "short_name": "Posilovna",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#eef2f7",
   "theme_color": "#111827",
-  "description": "Flexibilní začátečnický silový plán A/B – offline PWA."
+  "description": "Flexibilní začátečnický silový plán A/B s realistickými obrázky strojů."
 }

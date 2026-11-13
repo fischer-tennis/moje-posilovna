@@ -7,3 +7,11 @@ Obrázky jsou orientační nákresy typu stroje, ne fotografie konkrétního vyb
 Aplikace ukládá váhy, historii a měření pouze do localStorage telefonu. Je plně offline a bez externích knihoven.
 
 Instalace: nahraj obsah složky na HTTPS/GitHub Pages a v mobilu zvol Přidat na plochu.
+
+
+AKTUALIZACE V1.1
+- realistické obrázky 8 hlavních strojů/cviků
+- velký obrázek v detailu „Jak na to“
+- obrázky jsou lokální součást aplikace, bez stahování z internetu
+- nový offline cache posilovna-v1-1, aby se aktualizace načetla i v nainstalované PWA
+- u jednoruček, core a hip thrust zůstává zatím schematický nákres
