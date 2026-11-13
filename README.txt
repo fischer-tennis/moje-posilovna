@@ -19,3 +19,16 @@ AKTUALIZACE V1.1
 V1.1.1 FLAT
 - obrazky jsou v hlavni slozce vedle index.html
 - jednodussi nahrani pres GitHub web
+
+
+AKTUALIZACE V1.2 - STROJOVA VERZE
+- doplneny chybejici obrazky stroju
+- cviky upraveny hlavne na stroje a kladky
+- odstraneny hlavni cviky s jednoruckami jako povinny zaklad
+- nova verze viditelna v aplikaci jako V1.2
+
+
+AKTUALIZACE V1.2.1
+- obrázky jsou vložené přímo v aplikaci (inline), takže se mají zobrazovat i když GitHub Pages/PWA zlobí s cestami nebo cache
+- u každého cviku je rovnou vidět i alternativa
+- nová cache verze pro jistější aktualizaci v mobilu
