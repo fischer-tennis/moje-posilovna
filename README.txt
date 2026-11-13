@@ -15,3 +15,7 @@ AKTUALIZACE V1.1
 - obrázky jsou lokální součást aplikace, bez stahování z internetu
 - nový offline cache posilovna-v1-1, aby se aktualizace načetla i v nainstalované PWA
 - u jednoruček, core a hip thrust zůstává zatím schematický nákres
+
+V1.1.1 FLAT
+- obrazky jsou v hlavni slozce vedle index.html
+- jednodussi nahrani pres GitHub web
